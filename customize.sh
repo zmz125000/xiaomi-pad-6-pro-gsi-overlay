@@ -56,7 +56,7 @@ set_permissions() {
 
   # For files (not in directories taken care of above)
   # set_perm  <filename>                         <owner> <group> <permission> <contexts> (default: u:object_r:system_file:s0)
-  
+  set_perm /system/product/overlay/treble-overlay-xiaomi-mipad6pro.apk 0 0 0644
   # set_perm $MODPATH/system/lib/libart.so 0 0 0644
   # set_perm /data/local/tmp/file.txt 0 0 644
 }

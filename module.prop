@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.3
-versionCode=15
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=treble-overlay-xiaomi-mipad6pro
+name=Xiaomi Pad 6 Pro GSI Fix
+version=v0.2
+versionCode=16
+author=zmz125000
+description=Fix auto brightness on GSI system
